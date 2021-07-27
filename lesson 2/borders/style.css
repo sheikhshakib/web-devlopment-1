@@ -1,0 +1,27 @@
+.rounded{
+    border: 2px solid red;
+    border-radius: 10px 5px 4px 9px;
+}
+
+.one{
+    /* border: dotted 10px rgb(15, 190, 53); */
+    border-left: dotted 10px rgb(15, 190, 53);
+    /* border-style: solid;
+    border-width: 5px 10px 5px 4px;
+    border-color: brown green blue indigo; */
+}
+.two{
+    border-style: solid;
+    border-width: medium;
+    border-color:rgb(105, 255, 5);
+}
+.three{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: indigo;
+}
+.four{
+    border-bottom-style: dotted;
+    border-width: thick;
+    border-color: lightcoral;
+}
