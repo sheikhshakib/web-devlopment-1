@@ -1,0 +1,10 @@
+body{
+    background: brown fixed url("../../image/logo.png") no-repeat left top;
+
+
+    /* background-color: brown; */
+    /* background-image: url("../image/logo.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed; */
+}
