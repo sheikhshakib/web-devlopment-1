@@ -1,0 +1,19 @@
+/* Comments */
+body{
+    background-color: mediumslateblue;
+}
+h1{
+    background-color: mediumvioletred;
+    opacity: 1;
+}
+p{
+    background-color: midnightblue;
+    color: white;
+}
+
+.ext{
+    color: brown;
+}
+.color{
+    color: #5ab6d4;
+}
