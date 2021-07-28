@@ -1,0 +1,30 @@
+.pad{
+    border: 5px solid rebeccapurple;
+
+    padding: 20px 50px 10px 30px;
+}
+
+.pad2{
+    width: 300px;
+    color: white;
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: rebeccapurple;
+}
+
+.size{
+    height: 200px;
+    max-width: 200px;
+    min-width: 100px;
+    width: 50%;
+    color: white;
+    background-color: blueviolet;
+}
+
+.model{
+    width: 300px;
+    /* box-sizing: border-box; */
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
