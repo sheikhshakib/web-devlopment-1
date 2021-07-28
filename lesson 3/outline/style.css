@@ -1,0 +1,7 @@
+.outline{
+    outline: rgb(236, 39, 13) solid thick;
+    outline-offset: 10px;
+
+    background-color: rgb(25, 120, 228);
+    border: 10px solid rgb(212, 226, 13);
+}
