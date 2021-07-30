@@ -1,0 +1,39 @@
+.text{
+    color: rgb(54, 122, 201);
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.dir{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+p{
+    text-align: justify;
+}
+
+.align{
+    vertical-align: super;
+}
+
+.dec{
+    text-decoration: underline;
+}
+
+.tran{
+    text-transform: capitalize;
+}
+
+.specing{
+    text-indent: 50px;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
+
+    white-space: normal;
+}
+
+.shadow{
+    text-shadow: 2px 2px 5px rebeccapurple;
+}
