@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple');
+
+
+.font{
+    font-family: 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+
+    font-size: 10vw;
+}
+
+.google{
+    font-family: 'Sofia', cursive;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+}
